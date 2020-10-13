@@ -148,7 +148,7 @@
                     <div style="text-align: center">
                         <strong>City name not entered or found...</strong><br>
                         <small>Meanwhile, take a look at this boi.</small><br><br>
-                        <img id="robo" src="storage/robo.gif">
+                        <img id="robo" src="storage/public/robo.gif">
                     </div>
 
                 </div>
