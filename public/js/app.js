@@ -38940,7 +38940,13 @@ var staticRenderFns = [
       _c("br"),
       _c("br"),
       _vm._v(" "),
-      _c("img", { attrs: { id: "robo", src: "storage/robo.gif" } })
+      _c("img", {
+        attrs: {
+          id: "robo",
+          src:
+            "https://cdn.dribbble.com/users/1206528/screenshots/10966048/media/bc7d41fb8c9ae6328f5535870fe08d13.gif"
+        }
+      })
     ])
   }
 ]
