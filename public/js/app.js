@@ -2072,6 +2072,7 @@ var _countries_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webp
 //
 //
 //
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
@@ -38940,13 +38941,7 @@ var staticRenderFns = [
       _c("br"),
       _c("br"),
       _vm._v(" "),
-      _c("img", {
-        attrs: {
-          id: "robo",
-          src:
-            "https://cdn.dribbble.com/users/1206528/screenshots/10966048/media/bc7d41fb8c9ae6328f5535870fe08d13.gif"
-        }
-      })
+      _c("p", [_vm._v("🤖")])
     ])
   }
 ]
