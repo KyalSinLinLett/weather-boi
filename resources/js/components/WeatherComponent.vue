@@ -148,7 +148,8 @@
                     <div style="text-align: center">
                         <strong>City name not entered or found...</strong><br>
                         <small>Meanwhile, take a look at this boi.</small><br><br>
-                        <img id="robo" src="https://i.pinimg.com/originals/31/94/d8/3194d86a0fe13837d921aa5054f288a0.gif">
+                        
+                        <p>🤖</p>
                     </div>
 
                 </div>
